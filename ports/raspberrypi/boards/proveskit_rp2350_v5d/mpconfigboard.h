@@ -6,8 +6,8 @@
 
 #pragma once
 
-#define MICROPY_HW_BOARD_NAME "PROVES Kit v4"
-#define MICROPY_HW_MCU_NAME "rp2040"
+#define MICROPY_HW_BOARD_NAME "PROVES Kit v5"
+#define MICROPY_HW_MCU_NAME "rp2340"
 
 #define MICROPY_HW_NEOPIXEL (&pin_GPIO24)
 
